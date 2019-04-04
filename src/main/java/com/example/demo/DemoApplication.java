@@ -18,7 +18,7 @@ public class DemoApplication {
 
     @GetMapping ("/")
     public String Welcome() {
-        return "index";
+        return "index2";
     }
 
 }
